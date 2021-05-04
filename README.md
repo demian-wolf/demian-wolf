@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 <!--
 **demian-wolf/demian-wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=demian-wolf&custom_title=My%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top **Programming** Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html, css)](https://github.com/anuraghazra/github-readme-stats)
